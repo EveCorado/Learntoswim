@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+sudo:          false
+language:      node_js
+node_js:
+  - "node"
+install:       npm install
+script:
+  - npm test
+  - gulp
+cache:
+  directories:
+    - node_modules
+=======
+sudo:          false
+language:      node_js
+node_js:
+  - "node"
+install:       npm install
+script:
+  - npm test
+  - gulp
+cache:
+  directories:
+    - node_modules
+>>>>>>> 979431dc3d1bf7ebb8a78cc5a7f18a11f37e58da
