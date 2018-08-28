@@ -34,11 +34,11 @@ h1,h2,h3,h4,h5,h6{
 	letter-spacing:.1rem}
 
 header.masthead{
-	background: url("img/pool.jpg");
+	background-image: url("https://raw.githubusercontent.com/EveCorado/learntoswim/master/img/pool.jpg");
 	background-color: #4C64FF;
-	background-repeat:no-repeat;
+	/*background-repeat:no-repeat;
 	background-position:center;
-	position:relative;
+	position:relative;*/
 
 
 	/*position:relative;
